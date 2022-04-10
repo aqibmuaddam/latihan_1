@@ -42,5 +42,6 @@ if __name__ == "__main__":
         .unstack() \
         .to_excel('report_customer.xlsx')
 
-
+def printandi():
+    print("andi")
 
