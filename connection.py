@@ -44,3 +44,4 @@ def db_connect():
         return conn
 
 db_connect()
+
